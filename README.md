@@ -6,23 +6,41 @@ The original version refers to the one described in our recent publication
 https://doi.org/10.1016/j.baae.2025.03.004
 
 This version currently classifies 17 species: 
+
 Chorthippus albomarginatus
+
 Chorthippus apricarius
+
 Chorthippus biguttulus
+
 Chorthippus brunneus
+
 Chorthippus dorsatus
+
 Chorthippus mollis
+
 Conocephalus dorsalis
+
 Decticus verrucivorus
+
 Leptophyes punctatissima
+
 Metrioptera brachyptera
+
 Pholidoptera griseoaptera
+
 Pseudochorthippus parallelus
+
 Roeseliana roeselii
+
 Stenobothrus lineatus
+
 Stethophyma grossum
+
 Tettigonia cantans
+
 Tettigonia viridissima
+
 
 And we are working on adding more (the highest priorities being Chrysacroan dispar, Omocestus viridulus and Phaneroptera falcata). 
 
